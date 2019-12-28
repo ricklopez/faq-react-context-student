@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import LocaleProvider from './LocaleContext';
+import LocaleProvider from './context/LocaleContext';
 import Greeting from './Greeting';
 import ToggleLocale from './ToggleLocale';
 
